@@ -5,3 +5,6 @@ just prior to the imperial spread of European trade, rulers, religion, and polit
 
 Our ulterior motive is that it is a great opportunity to work on methods for representing political geography at a time when the nature of states, sovereignty,
 and territoriality were much more complex and varied than today. We are experimenting with data models and analysis methods for visualizing this complexity.
+
+We do not have anywhere near enough knowledge of this period, and welcome your input. If you find any errors or missing information, please contact Dr. Brandon
+Plewe at plewe@byu.edu, especially if you have good sources to consult.
